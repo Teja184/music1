@@ -4,7 +4,7 @@ function MCA2() {
         <div className="flex gap-4 ">
             <div className="min-w-28 max-w-40  rounded-md overflow-hidden">
             <div className="group relative w-full after:absolute hover:cursor-pointer after:content-[''] after:top-0 after:left-0 after:h-full after:w-full hover:after:bg-gradient-to-tr hover:after:from-transparent hover:after:via-transparent hover:after:to-black">
-                <ListVideo className="w-full object-cover h-40"color="grey" strokeWidth={1} />
+                <ListVideo className="w-full object-cover "color="grey" strokeWidth={1} size={16} />
 
 
                 <div className="absolute top-0 right-0  hover:bg-gray-200/30 rounded-full z-10 p-1 m-1">
